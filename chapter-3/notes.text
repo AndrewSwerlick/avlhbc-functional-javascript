@@ -1,0 +1,7 @@
+_identity function think of value as just another function
+(Use functions not values)
+Functional programming, every operation delegates
+All follow the ask don't tell policy
+  Hey run this code for me please
+  function decides how to run the code to best ensure
+  program operation
